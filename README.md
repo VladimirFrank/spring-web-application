@@ -1,4 +1,4 @@
-# Spring Web MVC Application example
+# Spring Web MVC Application example (Hello World)
 
 ## An example contains:
 - Spring application initial and configuration classes
