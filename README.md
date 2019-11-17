@@ -19,14 +19,11 @@ git clone https://github.com/VladimirFrank/spring-web-application.git
 ```
 mvn clean package
 ```
-3. Deploy the builded application
-```
-%app_root_directory%/target/spring-web-application.war
-```
+3. Deploy the build application (%app_root_directory%/target/spring-web-application.war)
 to an Application Server (WildFly (JBoss), WebSphere, etc)
-4. Go to the index page
+4. Go to the index page with message parameter
 ```
-http(s)://AS_IP:AS_WEB_PORT/spring-web-application/
+http(s)://AS_IP:AS_WEB_PORT/spring-web-application/?message=Hola%20Worlda
 ```
 5. ...
 6. Profit!
