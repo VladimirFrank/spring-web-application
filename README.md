@@ -1,9 +1,9 @@
 # Spring Web MVC Application example
 
 ## An example contains:
-- Spring application initial and configuration classes;
-- controller with GET-method handler for the index page that returns recieved message;
-- index.jsp with linked css and javascript files.
+- Spring application initial and configuration classes
+- controller with GET-method handler for the index page that returns recieved message
+- index.jsp with linked css and javascript files
 
 ## Tech stack
 - Java 12
